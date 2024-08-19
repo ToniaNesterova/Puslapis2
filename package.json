@@ -1,0 +1,17 @@
+{
+  "name": "puslapis2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --host=localhost --port=5155",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "dead": "^0.0.2",
+    "server": "^1.0.39"
+  }
+}
